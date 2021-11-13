@@ -1,0 +1,20 @@
+{
+    "setKeyword": "set",
+    "sceduleKeyword": "scedule",
+    "createKeyword": "create",
+    "joinKeyword": "join",
+    "eventKeyword": "event",
+    "intoKeyword": "into",
+    "inKeyword": "in",
+    "forKeyword": "for",
+    "removeKeyword": "remove",
+    "updateKeyword": "update",
+    "channelKeyword": "channel",
+    "rememberKeyword": "remember",
+    "exceptKeyword": "except",
+    "mentionKeyword": "mention",
+    "everybodyKeyword": "everybody",
+    "allKeyword": "all",
+    "withKeyword": "with",
+    "meKeyword": "me"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "alicel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-and-time": "^1.0.0",
+    "discord.js": "^12.5.3",
+    "natural": "^5.0.3",
+    "node-cron": "^3.0.0",
+    "node-nlp": "^4.22.1",
+    "sequelize": "^6.6.2",
+    "sqlite3": "^5.0.2"
+  }
+}
